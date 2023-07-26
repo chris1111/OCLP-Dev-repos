@@ -1,4 +1,6 @@
 ### OCLP Dev repos for HP-Probook-EliteBook-Package-Creator-OC
+Release OCLP App create/compilling from shel script command
+
 ## Credits
 
 * [Acidanthera](https://github.com/Acidanthera)
